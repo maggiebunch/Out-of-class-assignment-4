@@ -1,2 +1,2 @@
 # Out-of-class-assignment-4
-Here is my submission for our out of class assignment #4
+This website is my personal portfolio, built to showcase my work in journalism, social media strategy, and digital storytelling. It includes multiple pages (Home, About, Work, Project, and Contact), a responsive layout, working navigation, and intentional design choices that reflect my professional style. All content featured on the site is original or legally used, and each page includes a footer crediting my work. The site is published through GitHub Pages.
